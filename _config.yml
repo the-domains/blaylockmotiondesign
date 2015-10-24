@@ -1,0 +1,23 @@
+name: BlaylockMotionDesign
+favicon: null
+layout_spectrum: 0.08883567131124437
+typography_spectrum: 0.7988376906141639
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9822670111898333
+  lightness: 0.2005921157542616
+  saturation: 0.34373678104020655
+  rhythmicContrast: 0.45266165072098374
+purpose: []
