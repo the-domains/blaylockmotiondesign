@@ -1,4 +1,4 @@
-name: BlaylockMotionDesign
+name: Blaylock Creative
 favicon: null
 layout_spectrum: 0.08883567131124437
 typography_spectrum: 0.7988376906141639
@@ -16,7 +16,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#bc1419'
+    - '#000000'
+    - '#baaeae'
+    - '#f4f4f4'
+    - '#574537'
   brandStrength: 0.9822670111898333
   lightness: 0.2005921157542616
   saturation: 0.34373678104020655
