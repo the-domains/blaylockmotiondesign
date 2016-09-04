@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Chris Blaylock's Creative Portfolio]]></title>
         <description><![CDATA[Chris Blaylock's Creative Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blaylockcreative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 03:28:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 01 Sep 2016 20:31:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blaylockcreative/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[*Blaylock Reel 2015]]></title>
+            <description><![CDATA[<article><h1>*Blaylock Reel 2015</h1><p>This is my latest Demo Reel. Check out my portfolio by going to http://www.chrisblaylock.com</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/46f661363b9fadf34c2af27c86155f2e/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F519404043_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/115111817</link>
+            <guid isPermaLink="false">96006955-2a7b-4ae5-a21e-f668cdf646d5</guid>
+            <pubDate>Thu, 01 Sep 2016 20:30:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>TEST TEST </p>]]></description>
-            <link>undefinedtest-test/index.html</link>
+            <link>https://thegrid.ai/blaylockcreative/test-test/index.html</link>
             <guid isPermaLink="false">f2688232-04cf-44ee-8cb2-e5087a6f9702</guid>
             <pubDate>Wed, 10 Aug 2016 03:28:27 GMT</pubDate>
         </item>
